@@ -1,6 +1,6 @@
 cask "carboncc" do
-  version "1.0.0"
-  sha256 "15243c75aafec1994870eae8ffc98b2d71902abb7dc715d87e5a2edc1365217d"
+  version "1.1.0"
+  sha256 "5aa79658f2a51e81dd59bca02e119f404ecec57e89434d6a7bf293f98154631e"
 
   url "https://github.com/Aqalpi-Technologies/carboncc/releases/download/v#{version}/CarbonCC-#{version}.zip"
   name "CarbonCC"
